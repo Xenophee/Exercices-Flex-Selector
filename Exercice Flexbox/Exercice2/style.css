@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 80vh;
+    width: 50vh;
+}
+
+.green {
+    background-color: green;
+    height: 100%;
+    width: 60%;
+}
+
+.red {
+    background-color: red;
+    height: 100%;
+    width: 30%;
+}
+
+.blue {
+    background-color: blue;
+    height: 100%;
+    width: 10%;
+}

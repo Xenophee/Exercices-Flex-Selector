@@ -1,0 +1,23 @@
+* {
+    font-family: 'Coming Soon', cursive;
+}
+
+ol>li:first-child {
+    color: blue;
+}
+
+ol>li:first-child ul li {
+    color: red;
+}
+
+ol>li:first-child ul :last-child {
+    color:green;
+}
+
+ol>li:last-child {
+    color:grey;
+}
+
+p>span>span {
+    color: pink;
+}
